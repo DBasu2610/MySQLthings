@@ -1,1 +1,1 @@
-# MySQLthings
+Basic MySQL commands and concepts
